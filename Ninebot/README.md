@@ -1,5 +1,9 @@
 # 九号出行
 
+作者: Rex Lee
+
+GitHub: https://github.com/RexLee0929/APP
+
 
 
 ## 单版本
@@ -39,4 +43,6 @@ cn.ninebot.segway.old
 
 
 4.如果不打算安装建议值填写`Bundle Identifier` 则需自行编译动态库以便实现修改`Bundle Identifier`后仍能正常与九号服务器通信
+
+
 
